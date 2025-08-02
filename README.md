@@ -10,25 +10,30 @@ Estudiante proactivo de la **Tecnicatura en Analista de Sistemas** con sólida f
 Aquí tienes un vistazo a las herramientas y tecnologías que utilizo:
 
 * **Lenguajes:**
+  
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 * **Frameworks y Librerías:**
+  
     ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
     ![FastAPI](https://img.shields.io/badge/fastapi-%23005A9C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
     ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 * **Plataformas Cloud:**
+  
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 * **Bases de Datos:**
+  
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![MSSQL](https://img.shields.io/badge/MSSQL-%23005a9c.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 * **Otros:**
+  
     ![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![Moodle](https://img.shields.io/badge/Moodle-%23F7931E.svg?style=for-the-badge&logo=moodle&logoColor=white)
 
